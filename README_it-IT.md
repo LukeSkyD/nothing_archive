@@ -16,7 +16,7 @@ Una **Collezione completa di immagini OTA stock, incrementali e complete** e lin
 ## 📑 Tabella dei Contenuti
 - [Statistiche Repository](#-statistiche-repository)
 - [Modelli Supportati](#-modelli-supportati)
-- [Casi d'Uso](#-casi-d'uso)
+- [Casi d'Uso](#-casi-duso)
 - [Ringraziamenti](#-ringraziamenti)
 - [Supporta il Progetto](#-supporta-il-progetto)
 
