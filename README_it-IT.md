@@ -34,13 +34,13 @@ Una **Collezione completa di immagini OTA stock, incrementali e complete** e lin
 
 ## 📱 Modelli Supportati
 
-Use the dropdown list for each device model to find its corresponding index. Please note:
+Usa la lista dropdown per ciascun modello per trovarne la tabella corrispondente. Ricorda:
 
-- **Compatibility**: The releases and OTA links are compatible for manual sideloading or flashing with all regional variants (GLO/EEA/IND/JPN) and color versions of the models, unless otherwise specified in the notes present the category.
-- **Official Links**: All provided links are unmodified and sourced directly from the official OTA servers.
-- **Archived Builds**: For some builds where incremental or full OTA files lack active official server links or have expired, they have been [archived](https://archive.org) for convenience.
-- **Authenticity**: All releases are provided in their original, unmodified form as supplied by the OEM.
-- **Exclusion**: Android Developer Preview releases and some older region-specific releases have been excluded for the time being.
+- **Compatibilità**: I rilasci e i link OTA sono compatibili con l'installazione manuale o il flash con tutte le varianti regionali (GLO/EEA/IND/JPN) e di colore dei modelli, a meno di notifica nelle note di ciascuna categoria.
+- **Link Ufficiali**: Tutti i link qua presenti sono stati ottenuti direttamente dai server OTA ufficiali.
+- **Build Archiviate**: Alcune build dove gli OTA incrementali o completi non sono dotati di link ufficiali perché decaduti, si può fare riferimento agli archivi presenti [qui](https://archive.org).
+- **Autenticità**: Tutti i rilasci sono condivisi senza modifiche apportate, ovvero nello stato originale rilasciato dall'OEM.
+- **Esclusioni**: Le release Android Developer Preview e alcune release di regioni specifiche sono state al momento escluse.
 
 ---
 
