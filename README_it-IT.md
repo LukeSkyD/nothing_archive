@@ -49,7 +49,7 @@ Usa la lista dropdown per ciascun modello per trovarne la tabella corrispondente
 
 <br>
 
-**Instructions**: For more detailed installation instructions, visit [here](https://github.com/spike0en/nothing_archive/tree/spacewar).
+**Istruzioni**: Per istruzioni d'installazione dettagliate, visitare [questo sito](https://github.com/spike0en/nothing_archive/tree/spacewar).
 
 <br>
 
@@ -82,7 +82,7 @@ Usa la lista dropdown per ciascun modello per trovarne la tabella corrispondente
   
 <br>
 
-**Instructions**: For more detailed installation instructions, visit [here](https://github.com/spike0en/nothing_archive/tree/pong).
+**Istruzioni**: Per istruzioni d'installazione dettagliate, visitare [questo sito](https://github.com/spike0en/nothing_archive/tree/pong).
 
 <br>
 
@@ -118,8 +118,8 @@ Usa la lista dropdown per ciascun modello per trovarne la tabella corrispondente
   
 <br>
 
-**Instructions**: For more detailed installation instructions, visit [here](https://github.com/spike0en/nothing_archive/tree/pacman).
-**Note**: Versions 2.5.3 to 2.5.5A are compatible only with the Milk, White, and Black variants of the device. Versions 2.5.6 and higher support all color variants, including Blue and the Special Edition.
+**Istruzioni**: Per istruzioni d'installazione dettagliate, visitare [questo sito](https://github.com/spike0en/nothing_archive/tree/pacman).
+**Note**: Le versioni da 2.5.3 a 2.5.5A sono compatibili solamente con le colorazioni Latte, Bianco e Nero del dispositivo. Dalla versione 2.5.6 viene aggiunto il supporto per tutte le altre colorazioni (Blu e quelle Speciali).
 
 <br>
 
@@ -147,7 +147,7 @@ Usa la lista dropdown per ciascun modello per trovarne la tabella corrispondente
   
 <br>
 
-**Instructions**: For more detailed installation instructions, visit [here](https://github.com/spike0en/nothing_archive/tree/pacman).
+**Istruzioni**: Per istruzioni d'installazione dettagliate, visitare [questo sito](https://github.com/spike0en/nothing_archive/tree/pacman).
 
 <br>
 
@@ -168,7 +168,7 @@ Usa la lista dropdown per ciascun modello per trovarne la tabella corrispondente
   
 <br>
 
-**Instructions**: For more detailed installation instructions, visit [here](https://github.com/spike0en/nothing_archive/tree/tetris).
+**Istruzioni**: Per istruzioni d'installazione dettagliate, visitare [questo sito](https://github.com/spike0en/nothing_archive/tree/tetris).
 
 <br>
 
