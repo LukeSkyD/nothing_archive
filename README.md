@@ -3,7 +3,7 @@
 ---
 
 ## **🌍 Language Options**
-- [English](#) | [日本語](/README_ja-JP.md)
+- [English](#) | [日本語](/README_ja-JP.md) | [Italiano](/README_it-IT.md)
 
 ---
 
