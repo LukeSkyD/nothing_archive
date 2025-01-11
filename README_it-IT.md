@@ -24,11 +24,11 @@ Una **Collezione completa di immagini OTA stock, incrementali e complete** e lin
 
 ## 📊 Statistiche Repository 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fnothing_archive&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/spike0en/nothing_archive)
-![GitHub last commit](https://img.shields.io/github/last-commit/spike0en/nothing_archive)
-![GitHub repo size](https://img.shields.io/github/repo-size/spike0en/nothing_archive)
-![Stars](https://img.shields.io/github/stars/spike0en/nothing_archive)
-![Forks](https://img.shields.io/github/forks/spike0en/nothing_archive?label=Forks&logo=github)
+[![Visitatori](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fnothing_archive&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/spike0en/nothing_archive)
+![Ultimo commit GitHub](https://img.shields.io/github/last-commit/spike0en/nothing_archive)
+![Dimensione Repo GitHub](https://img.shields.io/github/repo-size/spike0en/nothing_archive)
+![Stelle](https://img.shields.io/github/stars/spike0en/nothing_archive)
+![Fork](https://img.shields.io/github/forks/spike0en/nothing_archive?label=Forks&logo=github)
 
 ---
 
@@ -191,29 +191,29 @@ Use the dropdown list for each device model to find its corresponding index. Ple
 
 ## 📌 Casi d'Uso  
 
-This archive is a reliable solution for a variety of scenarios involving **Nothing** and **CMF** devices:
+Questo archivio è una soluzione affidabile per diversi scenari con dispositivi **Nothing** e **CMF**:
 
-- **Manual OTA Updates:** Sideload OTA updates for devices when region-based rollouts are delayed or when the device is not receiving the OTA for various reasons.
-- **Rooting Support:** Access stock boot images for rooting and safely unrooting your device.
-- **Restore or Flash Firmware:** Revert to stock firmware after custom ROM installations or prepare your device for custom ROMs.
-- **Firmware Archiving:** Archive and preserve the oem firmware versions for future use or testing purposes.
+- **Aggiornamenti OTA Manuali:** Sideload aggiornamenti OTA quando i rollout basati su zone geografiche vengono posticipati oppure il dispositivo non sta ricevendo aggiornamenti per diversi motivi.
+- **Supporto Root:** Accesso alle immagini stock di boot per eseguire il root o l'unroot del dispositivo.
+- **Ripristino o Flash Firmware:** Ripristina il firmware stock dopo una l'installazione di una custom ROM o in preparazione all'installazione di una CROM.
+- **Archivio Firmware:** Archivia e preserva i firmware oem per usi futuri o per test.
 
 ---
 
 ## 🤝 Ringraziamenti
 
-Sincere thanks are extended to the following contributors for their invaluable support and contributions:
+Ringraziamenti sinceri ai seguenti collaboratori per il loro supporto e lavoro:
 
-- **[luk1337](https://github.com/luk1337/oplus_archive)**: For pioneering the use of AOSP's OTA extraction tool, which enabled the extraction of incremental OTA updates.
-- **[arter97](https://github.com/arter97/nothing_archive)**: For adapting the same for Nothing Phone (2).
-- **[LukeSkyD](https://github.com/LukeSkyD)**: For maintaining his [Nothing Phone (1) - Repo](https://xdaforums.com/t/nothing-phone-1-repo-nos-ota-img-guide-root.4464039/), which served as a reference for earlier build versions of the device while maintaining this archive.
-- **[Re*Index.(ot_inc)](https://github.com/reindex-ot)**: For providing the Japanese translation, helping make the repository accessible to a wider audience.
+- **[luk1337](https://github.com/luk1337/oplus_archive)**: Per essere stato il primo ad usare il tool di estrazione OTA di AOSP, che ha permesso l'estrazione degli aggiornamenti OTA incrementali.
+- **[arter97](https://github.com/arter97/nothing_archive)**: Per aver adattato il tool al Nothing Phone (2).
+- **[LukeSkyD](https://github.com/LukeSkyD)**: Per aver mantenuta la sua [Repo Nothing Phone (1)](https://xdaforums.com/t/nothing-phone-1-repo-nos-ota-img-guide-root.4464039/), che è servita come riferimento per versioni di build precedenti per il dispositivo, usate da questo archivio e per la traduzione italiana di questo archivio.
+- **[Re*Index.(ot_inc)](https://github.com/reindex-ot)**: Per aver rilasciato la traduzione giapponese di questo archivio per espanderne la user base.
 
 ---
 
 ## ⭐ Supporta il Progetto!  
 
-If you’ve found this archive helpful, please consider [starring the repository](https://github.com/spike0en/nothing_archive/stargazers) to boost its visibility and help others discover it. Your support means a lot—thank you!
+Se hai trovato questo archivio d'aiuto, considera [mettere una stella](https://github.com/spike0en/nothing_archive/stargazers) per migliorare la visibilità della repo e aiutare altri a trovarla. Il tuo supporto ci può essere molto d'aiuto! Grazie!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=spike0en/nothing_archive&type=Date&theme=dark" />
