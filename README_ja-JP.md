@@ -3,7 +3,7 @@
 ---
 
 ## **🌍 言語のオプション**
-- [English](./README.md) | [日本語](#)
+- [English](./README.md) | [日本語](#) | [Italiano](/README_it-IT.md)
 
 ---
 
