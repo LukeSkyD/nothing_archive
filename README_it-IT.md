@@ -7,22 +7,22 @@
 
 ---
 
-## 📂 Project Overview
+## 📂 Panoramica Progetto
 
-A **complete collection of full, unaltered stock OTA images** and OTA update links for [Nothing](https://nothing.tech/) and [CMF by Nothing](https://cmf.tech) devices. This archive aids users in flashing official firmware, securely rooting devices, and storing stock firmware for various use cases. The OTA links are directly sourced from official update servers.
-
----
-
-## 📑 Table of Contents
-- [Repository Statistics](#-table-of-contents)
-- [Supported Models](#-supported-models)
-- [Use Cases](#-use-cases)
-- [Acknowledgments](#-acknowledgments)
-- [Support the Project](#-support-the-project)
+Una **Collezione completa di immagini OTA stock, incrementali e complete** e link di aggiornamento OTA per dispositivi [Nothing](https://nothing.tech/) e [CMF by Nothing](https://cmf.tech). Questo archivio punta ad aiutare gli utenti nel flash di firmware ufficiali, eseguire il root in maniera sicura del proprio dispositivo e ripristinare il firmware stock in caso di necessità. I link OTA sono ottenuti direttamente dai server di aggiornamento ufficiali.
 
 ---
 
-## 📊 Repository Statistics  
+## 📑 Tabella dei Contenuti
+- [Statistiche Repository](#-statistiche-repository)
+- [Modelli Supportati](#-modelli-supportati)
+- [Casi d'Uso](#-casi-d'uso)
+- [Ringraziamenti](#-ringraziamenti)
+- [Supporta il Progetto](#-supporta-il-progetto)
+
+---
+
+## 📊 Statistiche Repository 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fnothing_archive&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/spike0en/nothing_archive)
 ![GitHub last commit](https://img.shields.io/github/last-commit/spike0en/nothing_archive)
@@ -32,7 +32,7 @@ A **complete collection of full, unaltered stock OTA images** and OTA update lin
 
 ---
 
-## 📱 Supported Models
+## 📱 Modelli Supportati
 
 Use the dropdown list for each device model to find its corresponding index. Please note:
 
@@ -189,7 +189,7 @@ Use the dropdown list for each device model to find its corresponding index. Ple
 
 ---
 
-## 📌 Use Cases  
+## 📌 Casi d'Uso  
 
 This archive is a reliable solution for a variety of scenarios involving **Nothing** and **CMF** devices:
 
@@ -200,7 +200,7 @@ This archive is a reliable solution for a variety of scenarios involving **Nothi
 
 ---
 
-## 🤝 Acknowledgments
+## 🤝 Ringraziamenti
 
 Sincere thanks are extended to the following contributors for their invaluable support and contributions:
 
@@ -211,7 +211,7 @@ Sincere thanks are extended to the following contributors for their invaluable s
 
 ---
 
-## ⭐ Support the Project!  
+## ⭐ Supporta il Progetto!  
 
 If you’ve found this archive helpful, please consider [starring the repository](https://github.com/spike0en/nothing_archive/stargazers) to boost its visibility and help others discover it. Your support means a lot—thank you!
 
